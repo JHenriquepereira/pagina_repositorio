@@ -1,10 +1,10 @@
 :root{
-    --cor-principal: white;
+    --cor-principal: black;
 }
 
 
 body{
-    background:black;
+    background:blue;
 }
 
 
@@ -19,7 +19,7 @@ body{
     
 }
 .profile-info{
-    color: white;
+    color: black;
     font-size: large;
     width: 400px;
     margin: 0 auto;
